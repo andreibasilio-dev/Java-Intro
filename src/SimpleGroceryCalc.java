@@ -50,7 +50,6 @@ public class SimpleGroceryCalc {
         System.out.printf("Discount (5%%): %.2f\n", discount5);
         System.out.printf("Sales Tax (12%%): %.2f\n", salesTax12);
         System.out.printf("Overall Total: %.2f\n", overallTotal);
-
-
+        input.close();
     }
 }
