@@ -16,9 +16,9 @@ Projects:
 2. SimpleConsoleInvoice.java : A simple text based invoice program with 10 products and total. Formatting using \t \n and \".
 3. GroceryShopCalc.java : A simple interactive program that asks the user to input using a Scanner, then calculates the final total.
 4. AreaPerimeterRecCalc.java : A text based program that calculates area & perimeter rectangle calculator.
-5. GroceryDiscCalc.java : A program that asks the user to enter the total amount of their grocery, check the discount using if else, and calculate the final total.
-6. RestaurantOrderSystem.java : A program that asks the user to select order from the menu, check the order using the switch statement, and calculated the final total.
-7. AttendanceSystem.java : A program that checks the no. of students in a class then asks if a student is present or absent using while loop.
-8. PasswordValidationSystem.java : A program that evaluates the password given by the user if it met the requirements using if else and character class, multiple times using a loop.
+5. GroceryDiscCalc.java : A program that asks the user to enter the total amount of their grocery, check the discount using if else, and calculates the final total.
+6. RestaurantOrderSystem.java : A program that asks the user to select order from the menu, check the order using the switch statement, and calculates the final total.
+7. AttendanceSystem.java : A program that checks the no. of students in a class then asks if a student is present or absent with switch statement multiple times using a loop.
+8. PasswordValidationSystem.java : A program that evaluates the password given by the user if it met the requirements using if else and character class multiple times using a loop.
    
 That's all! See you on my next repository!
