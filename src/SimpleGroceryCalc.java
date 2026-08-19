@@ -46,7 +46,7 @@ public class SimpleGroceryCalc {
         double overallTotal = (preTotal - discount5) + salesTax12;
 
         System.out.println("Total: ");
-        System.out.printf("Raw Total: PHP %.2f\n", preTotal); // Prints the total of the grocery.
+        System.out.printf("Subtotal: PHP %.2f\n", preTotal); // Prints the total of the grocery.
         System.out.printf("Discount (5%%): PHP %.2f\n", discount5);
         System.out.printf("Sales Tax (12%%): PHP %.2f\n", salesTax12);
         System.out.printf("Overall Total: PHP %.2f\n", overallTotal);
