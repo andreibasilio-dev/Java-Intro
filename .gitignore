@@ -13,6 +13,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
+out/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -28,3 +29,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/
+.class
