@@ -13,7 +13,6 @@ out/
 .springBeans
 .sts4-cache
 bin/
-out/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
@@ -31,5 +30,4 @@ out/
 .DS_Store
 .idea/
 .class
-*.iml
-
+Java Intro.iml
